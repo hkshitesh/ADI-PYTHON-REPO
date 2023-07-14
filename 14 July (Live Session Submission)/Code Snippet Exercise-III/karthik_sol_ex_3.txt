@@ -1,0 +1,2 @@
+First call outputs -5.0
+Second call raises DivideByZero Exception and prints "a/b result in 0"

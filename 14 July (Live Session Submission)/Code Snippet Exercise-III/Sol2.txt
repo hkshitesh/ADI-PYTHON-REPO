@@ -1,0 +1,2 @@
+ADIfun(2.0, 3.0) -> -5
+ADIfun(3.0, 3.0) -> ZeroDivisionError

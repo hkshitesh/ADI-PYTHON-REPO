@@ -1,0 +1,5 @@
+ADI_Fun (2.0, 3.0):
+Output = -5
+
+ADI_Fun (3.0, 3.0):
+Output = Exception

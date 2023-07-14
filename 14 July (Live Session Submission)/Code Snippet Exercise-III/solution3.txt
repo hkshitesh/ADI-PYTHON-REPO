@@ -1,2 +1,2 @@
 -5.0
-a/b result in zero
+a/b result in 0
